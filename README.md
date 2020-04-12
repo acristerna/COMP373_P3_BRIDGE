@@ -20,9 +20,8 @@ However, the Bridge Pattern helped solved the problem by decoupling the CSStuden
 
 ## Applications Used 
 
-Draw.IO (ULM Model)
-
-Eclipse IDE For Java 
+* Draw.IO (ULM Model)
+* Eclipse IDE For Java 
 
 ## Credit 
 
