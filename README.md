@@ -23,7 +23,10 @@ HOW TO CONTRIBUTE
 5. Submit a pull request
 
 CREDIT
+
 Irfan Poljak
+
 Henry Espinoza
+
 Anissa Cristerna 
 
