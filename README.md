@@ -1,6 +1,6 @@
 # COMP373_P3_BRIDGE
 
-  Project 3: Implementing Bridge Patterns 
+Project 3: Implementing Bridge Patterns 
 
 ## HOW TO RUN THE CODE 
 
@@ -26,7 +26,7 @@ Eclipse IDE For Java
 
 ## CREDIT
 
-Anissa Cristerna 
-Henry Espinoza
+Anissa Cristerna,
+Henry Espinoza, and
 Irfan Poljak
 
