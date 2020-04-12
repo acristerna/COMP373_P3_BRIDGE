@@ -1,36 +1,32 @@
 # COMP373_P3_BRIDGE
 
-  Project 3: Implementing Patterns 
+  Project 3: Implementing Bridge Patterns 
 
-# GETTING STARTED 
+# HOW TO RUN THE CODE 
 
-In this project, we will practice the implementation of design patterns. These design patterns include bridge and observer patterns. 
+To run the code, clone the repsotiory onto your development envrionment. Next, you will in Main.
 
-# WHAT IS BEING IDENTIFIED IN THIS PROJECT?
+# WHAT IS THW PROBLEM IDENTIFIED IN THIS PROJECT?
 
-Pattern Implementation 
- - Bridge Pattern 
- - Obersver Pattern
-  Patterns can be either implemented seperatley or together in one implementation. 
+Before implementing the Bridge Pattern, the problem we faced was that if changes needed to be made to a CS student’s class, it would also affect the other files. 
 
-# USUAGE 
+![]()
+
+# SOLUTION
+
+However, the Bridge Pattern helped solved the problem by decoupling the CSStudent and Classes interface as seen below. This way, we can independently make changes to one file without affecting the others.  
+
+![]()
+
+# APPLICATIONS USED 
 
 Draw.IO (ULM Model)
 
 Eclipse IDE For Java 
 
-# HOW TO CONTRIBUTE 
-1. Fork it!
-2. Create your feature branch: git checkout -b my-new-feature
-3. Commit your changes: git commit -am 'Add some feature'
-4. Push to the branch: git push origin my-new-feature
-5. Submit a pull request
-
 # CREDIT
 
-Irfan Poljak
-
-Henry Espinoza
-
 Anissa Cristerna 
+Henry Espinoza
+Irfan Poljak
 
