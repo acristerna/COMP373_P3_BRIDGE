@@ -3,16 +3,20 @@
 Project 3: Implementing Patterns 
 
 GETTING STARTED 
+
 In this project, we will practice the implementation of design patterns. These design patterns include bridge and observer patterns. 
 
 WHAT IS BEING IDENTIFIED IN THIS PROJECT 
+
 Pattern Implementation 
  - Bridge Pattern 
  - Obersver Pattern
   Patterns can be either implemented seperatley or together in one implementation. 
 
 USUAGE 
+
 Draw.IO (ULM Model)
+
 Eclipse IDE For Java 
 
 HOW TO CONTRIBUTE 
