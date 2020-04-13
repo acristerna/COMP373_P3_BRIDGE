@@ -9,7 +9,7 @@ For this real-world example of the Bridge pattern, we used the implementation of
 
 ## How To Run the Code
 
-To run the code, clone the repository to your own development envrionment and run Main (in Main folder).
+To run the code, clone the repository to your own development environment and run Main (in Main folder).
 
 ## What Is The Problem Identified In This Project? 
 
