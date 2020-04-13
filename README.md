@@ -4,7 +4,8 @@ Project 3: Implementing Bridge Pattern
 
 ## Inspiration 
 
-For this real-world example of the Bridge pattern, we used the implementation of assigning Major classes needed for a specific CS student's Majors. While this program only has a few examples and classes, you can see how it is extensible and could be expanded using the Bridge Pattern.
+For this real-world example of the Bridge pattern, we used the implementation of assigning Major classes needed for a specific CS student's Majors. While this program only has a few examples and classes, you can see how it is extensible and could be expanded using the Bridge Pattern. When run, the console shows the added class per student Major.
+
 
 ## How To Run the Code
 
